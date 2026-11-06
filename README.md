@@ -4,7 +4,10 @@ A typed REST API built with FastAPI and Pydantic. Inputs, outputs and failures f
 
 ## Demo
 
-Demo recording: DEMO_LINK_HERE
+Demo recording: https://drive.google.com/file/d/1IhEPyyie_ouURIvk-msk89oZ9sUDsWhl/view?usp=sharing
+
+https://drive.google.com/file/d/19Ly8W0YzmdMmvwx0W-ki0rW68bKOphQi/view?usp=sharing
+
 
 ## Endpoints
 
